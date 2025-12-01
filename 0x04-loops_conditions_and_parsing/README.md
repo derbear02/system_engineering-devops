@@ -6,10 +6,3 @@ This directory contains Bash scripts demonstrating loops, conditional statements
 
 - `1-for_best_school` - Displays "Best School" 10 times using a for loop
 
-## Usage
-
-Make scripts executable and run them:
-```bash
-chmod +x script_name
-./script_name
-```
